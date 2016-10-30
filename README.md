@@ -3,5 +3,5 @@ Nas projekt pri RPO
 
 Clani:
 Matej Horvat :crown:,
-David Tkalec :tophat:,
-Gasper Rencof :briefcase:,
+David Tkalec,
+Gasper Rencof.
