@@ -11,6 +11,9 @@ Učenje:
 
 David: 
   - https://unity3d.com/learn/tutorials/topics/2d-game-creation/2d-game-development-walkthrough?playlist=17093
+  - https://unity3d.com/learn/tutorials/topics/2d-game-creation/sprite-type?playlist=17093
+  - https://unity3d.com/learn/tutorials/topics/2d-game-creation/2d-physics-overview?playlist=17093
+  - https://docs.unity3d.com/Manual/Overview2D.html
 
 Matej:
   - https://www.youtube.com/watch?v=suehAh6cbKg
