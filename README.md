@@ -30,5 +30,8 @@ Gašper:
  - https://inkscape.org/en/doc/shapes/tutorial-shapes.html
  - https://inkscapetutorials.org/2013/11/27/how-do-you-rotate-in-inkscape/
  - https://docs.unity3d.com/Manual/ImportingAssets.html
+ - https://www.youtube.com/watch?v=7TR6-k-6fUk
+ - http://www.instructables.com/id/LEGO-Man-Costume/step3/The-Face/
+ - https://www.pinterest.com/pin/220394975489620102/
  
  
