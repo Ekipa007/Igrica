@@ -24,3 +24,11 @@ Matej:
   - https://docs.unity3d.com/Manual/ImportingAssets.html
   - https://docs.unity3d.com/Manual/HOWTO-UIMultiResolution.html
   - https://www.youtube.com/watch?v=pT4uca2bSgc
+
+
+Gašper:
+ - https://unity3d.com/learn/tutorials/topics/2d-game-creation/2d-scrolling-backgrounds
+ - https://inkscape.org/en/doc/shapes/tutorial-shapes.html
+ - https://inkscapetutorials.org/2013/11/27/how-do-you-rotate-in-inkscape/
+ 
+ 
