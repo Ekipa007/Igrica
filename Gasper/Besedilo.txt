@@ -1,1 +1,13 @@
-Gasperjev del
+Pomoč:
+
+- https://docs.unity3d.com/Manual/CreatingScenes.html
+- https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-image
+- https://www.youtube.com/watch?v=iQF5gzfbutA
+- https://forum.unity3d.com/threads/modify-the-width-and-height-of-recttransform.270993/
+- https://www.youtube.com/watch?v=C65ExBy6WPA
+- https://www.youtube.com/watch?v=xvpP9U20ioQ
+- https://docs.unity3d.com/ScriptReference/GameObject.SetActive.html
+- http://answers.unity3d.com/questions/894211/set-objects-child-to-activeinactive.html
+-
+-
+
