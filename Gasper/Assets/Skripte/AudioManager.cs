@@ -7,6 +7,14 @@ public class AudioManager : MonoBehaviour {
     float sfxVolumePercent = 1;
     float musicVolumePercent = 1f;
 
+
+
+    //public float masterVolumePercent { get; private set; }
+    //public float sfxVolumePercent { get; private set; }
+    //public float musicVolumePercent { get; private set; }
+
+
+
     AudioSource[] musicSources;
     int activeMusicSourceIndex;
 
@@ -56,6 +64,33 @@ public class AudioManager : MonoBehaviour {
             AudioSource.PlayClipAtPoint(clip, pos, sfxVolumePercent * masterVolumePercent);
         }
     }
+
+
+    /*public void SetVolume(float volumePercent, AudioChannel channel)
+    {
+        switch (channel)
+        {
+            case AudioChannel.Master:
+                masterVolumePercent = volumePercent;
+                break;
+            case AudioChannel.Sfx:
+                sfxVolumePercent = volumePercent;
+                break;
+            case AudioChannel.Music:
+                musicVolumePercent = volumePercent;
+                break;
+        }
+
+        musicSources[0].volume = musicVolumePercent * masterVolumePercent;
+        musicSources[1].volume = musicVolumePercent * masterVolumePercent;
+
+        PlayerPrefs.SetFloat("master vol", masterVolumePercent);
+        PlayerPrefs.SetFloat("sfx vol", sfxVolumePercent);
+        PlayerPrefs.SetFloat("music vol", musicVolumePercent);
+        PlayerPrefs.Save();
+    }*/
+
+
 
     IEnumerator AnimateMusicCrossfade(float duration)
     {
