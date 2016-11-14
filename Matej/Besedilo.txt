@@ -1,7 +1,0 @@
-Matejev del
-
-- https://www.youtube.com/watch?v=pT4uca2bSgc
-- http://answers.unity3d.com/questions/369198/how-to-exit-application-in-android-on-back-button.html
-- http://answers.unity3d.com/questions/931841/make-a-ui-button-quit-the-exe-unity-5.html
-- https://docs.unity3d.com/Manual/HOWTO-UIMultiResolution.html
-- https://docs.unity3d.com/Manual/gui-Basics.html
