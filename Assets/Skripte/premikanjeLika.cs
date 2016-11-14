@@ -7,7 +7,7 @@ public class premikanjeLika : MonoBehaviour {
     public float movingSpeed;*/
 
     [SerializeField]
-    public float jumpingSpeed = 400;
+    public float jumpingSpeed = 100;
 
     Rigidbody2D myRigidbody2d;
 
@@ -28,7 +28,7 @@ public class premikanjeLika : MonoBehaviour {
     }
 
     void Movement() {
-        /*if (Input.GetKey (KeyCode.RightArrow))
+        if (Input.GetKey (KeyCode.RightArrow))
         {
             transform.Translate(Vector2.right * 5f * Time.deltaTime);
             transform.eulerAngles = new Vector2(0, 0);
@@ -37,7 +37,7 @@ public class premikanjeLika : MonoBehaviour {
         {
             transform.Translate(Vector2.right * 5f * Time.deltaTime);
             transform.eulerAngles = new Vector2(0, 180);
-        }*/
+        }
 
         //if (Input.touchCount == 1)
         if (Input.touchCount > 0)
